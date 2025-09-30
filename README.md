@@ -38,7 +38,7 @@ This finding allows the system to provide a reliable recommendation even when a 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/bk-12346/SoilSense-Crop-Recommener
     ```
 2.  **Install dependencies:**
     This project requires standard data science libraries. You can install them using pip:
@@ -46,5 +46,6 @@ This finding allows the system to provide a reliable recommendation even when a 
     pip install pandas numpy scikit-learn
     ```
 3.  **Run the notebook:**
-    Open the `notebook.ipynb` file in your preferred environment (Jupyter Lab, VS Code, etc.) and run the cells sequentially to reproduce the analysis and results.
+    Open the `main.py` file in your preferred environment (Jupyter Lab, VS Code, etc.) and run the cells sequentially to reproduce the analysis and results.
+
 
