@@ -31,7 +31,7 @@ This finding allows the system to provide a reliable recommendation even when a 
 
 ## 📁 Files in This Project
 
-* `main.py`: The main Jupyter Notebook containing all the data cleaning, exploratory analysis, model training, and the final feature performance comparison.
+* `main.py`: The main Python script containing all the data cleaning, exploratory analysis, model training, and the final feature performance comparison.
 * `soil_measures.csv`: The dataset used for training the machine learning model.
 
 ## 💻 How to Run
@@ -47,5 +47,6 @@ This finding allows the system to provide a reliable recommendation even when a 
     ```
 3.  **Run the notebook:**
     Open the `main.py` file in your preferred environment (Jupyter Lab, VS Code, etc.) and run the cells sequentially to reproduce the analysis and results.
+
 
 
